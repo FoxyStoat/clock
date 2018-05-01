@@ -1,10 +1,10 @@
 # clock
 
-JavaScript and CSS Clock
+HTML, JavaScript, and CSS Clock
 
 JavaScript-30 WesBos project 02
 
-[Link to wesbos website](http://wesbos.com/javascript30/)
+To follow along with 30 JS Projects, click the link:[Wesbos website](http://wesbos.com/javascript30/)
 
-[Link to my project]()
+[Link to my project](https://foxystoat.github.io/clock/)
 
